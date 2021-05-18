@@ -1,12 +1,12 @@
 # doi_downloader
-## 使用方法有两种：一种配置python环境运行；一种无需配置python，直接双击exe运行。
-### 方法一：python启用
-1. 将doi号复制到```dois.txt```中，每行一个doi号
-2.
+> There are two ways to use it: one is to configure the python environment to run; the other is to run the exe directly without configuring python.
+##with python:
+1. Copy the doi number to ```dois.txt```, one doi number per line
+2. Terminal input：
 ```bash
 pip install scrapy
 python run.py
 ```
-3. 下载的pdf在PDF文件夹下
+3. The downloaded pdf is in the PDF folder
 
-### 方法二：见PDF文件
+##or,[look there!](https://github.com/brillience/doiDownloader/blob/main/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
