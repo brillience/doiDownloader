@@ -1,5 +1,7 @@
 # doi_downloader
-> There are two ways to use it: one is to configure the python environment to run; the other is to run the exe directly without configuring python.
+> There are two ways to use it: one is to configure the python environment to run; the other is to run the exe directly without configuring python.  
+
+
 ##with python:
 1. Copy the doi number to ```dois.txt```, one doi number per line
 2. Terminal input：
